@@ -1,0 +1,10 @@
+{
+    "data": [
+        "PRINT_LISTS",
+        "REPEAT 6",
+        "<",
+        "ADD test",
+        "PRINT_LISTS",
+        ">"
+    ]
+}
